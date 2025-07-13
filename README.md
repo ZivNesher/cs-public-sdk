@@ -1,6 +1,6 @@
 # EasyCS Chat SDK
 
-CS assosiate UI:
+CS associate UI:
 <img width="1276" height="826" alt="Screenshot 2025-07-13 at 14 21 48" src="https://github.com/user-attachments/assets/fa67b475-479d-4c0a-bbc0-a58755a27bc8" />
 <img width="1276" height="826" alt="Screenshot 2025-07-13 at 14 22 01" src="https://github.com/user-attachments/assets/13b64ac4-25bb-424c-859f-ac36301269c1" />
 <img width="1276" height="821" alt="Screenshot 2025-07-13 at 14 21 41" src="https://github.com/user-attachments/assets/5a7ea069-9cb6-4844-b986-8033f7853a71" />
