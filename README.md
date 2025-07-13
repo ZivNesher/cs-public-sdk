@@ -1,12 +1,12 @@
 # EasyCS Chat SDK
 
-<img width="327" height="705" alt="Screenshot 2025-07-13 at 14 29 36" src="https://github.com/user-attachments/assets/dd10bce7-40a9-46d8-a01b-51a458c532ee" />
-<img width="322" height="707" alt="Screenshot 2025-07-13 at 14 29 30" src="https://github.com/user-attachments/assets/d0d0e2ed-6ccb-42c5-adf9-c321f91fe043" />
-<img width="1276" height="826" alt="Screenshot 2025-07-13 at 14 22 01" src="https://github.com/user-attachments/assets/682a280f-231a-4516-9bf6-597eb4772d0a" />
+<img width="1276" height="826" alt="Screenshot 2025-07-13 at 14 21 48" src="https://github.com/user-attachments/assets/fa67b475-479d-4c0a-bbc0-a58755a27bc8" />
+<img width="1276" height="826" alt="Screenshot 2025-07-13 at 14 22 01" src="https://github.com/user-attachments/assets/13b64ac4-25bb-424c-859f-ac36301269c1" />
+<img width="1276" height="821" alt="Screenshot 2025-07-13 at 14 21 41" src="https://github.com/user-attachments/assets/5a7ea069-9cb6-4844-b986-8033f7853a71" />
 
-<img width="1276" height="826" alt="Screenshot 2025-07-13 at 14 21 48" src="https://github.com/user-attachments/assets/f21b70cf-bb88-4ee1-86f4-ec2c9d8a59bf" />
-<img width="1276" height="821" alt="Screenshot 2025-07-13 at 14 21 41" src="https://github.com/user-attachments/assets/f4139766-f559-4c60-a98c-ae383da053ec" />
 
+<img width="322" height="707" alt="Screenshot 2025-07-13 at 14 29 30" src="https://github.com/user-attachments/assets/e153daf5-a951-4510-9f6a-7e62b316183a" />
+<img width="327" height="705" alt="Screenshot 2025-07-13 at 14 29 36" src="https://github.com/user-attachments/assets/32887495-6596-4030-bb2f-6038cf6d9017" />
 
 
 
