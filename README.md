@@ -18,15 +18,15 @@
 
 ## What’s Included?
 
-- **Android SDK** (in `EasyCSSampleApp/`)
-- **Backend API** (`easycs-backend/`, Flask + MongoDB)
-- **Web Dashboard** (`CSweb/`, React)
+- **Android SDK** (in `APP/`)
+- **Backend API** (`API/easycs-backend/`, Flask + MongoDB)
+- **Web Dashboard** (`WEB/`, React)
 
 ---
 
 ## Features
 
-### Android SDK (`EasyCSSampleApp`)
+### Android SDK (`APP`)
 - Draggable, always-on-top chat bubble
 - User prompted for unique name on first use
 - Real-time chat via REST API
@@ -39,7 +39,7 @@
 - Tracks conversations per user/app/company
 - Clean architecture with `.env` configuration
 
-### Web Dashboard (`CSweb`)
+### Web Dashboard (`WEB`)
 - React-based UI
 - Login with company name and CS agent email
 - View/respond to open user conversations
@@ -52,9 +52,9 @@
 ```
 easycs-chat-sdk/
 │
-├── CSweb/              # React web dashboard for support agents
-├── EasyCSSampleApp/    # Android demo app using the EasyCS SDK
-├── easycs-backend/     # Flask REST API backend with MongoDB integration
+├── WEB/              # React web dashboard for support agents
+├── APP/    # Android demo app using the EasyCS SDK
+├── API/     # Flask REST API backend with MongoDB integration
 └── README.md           # Project documentation
 ```
 
@@ -84,7 +84,7 @@ python run.py
 
 ---
 
-### 2. Android App (`EasyCSSampleApp`)
+### 2. Android App (`APP`)
 
 Open the project in Android Studio.
 
@@ -101,10 +101,10 @@ String backendUrl = "http://10.0.2.2:5000"; // Use proper IP if testing on real 
 
 ---
 
-### 3. Web Dashboard (`CSweb`)
+### 3. Web Dashboard (`WEB`)
 
 ```bash
-cd CSweb/cs-panel
+cd WEB/cs-panel
 npm install
 npm start
 ```
