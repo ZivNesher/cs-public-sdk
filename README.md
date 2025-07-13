@@ -164,8 +164,3 @@ We welcome all contributions!
 Fork this repo, create a new branch, and open a PR when ready.
 
 ---
-
-```
-## Contribution
-
-We welcome contributions, issues, and pull requests. Please fork the repository and submit your changes via a pull request.
