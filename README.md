@@ -6,6 +6,7 @@ CS associate UI:
 <img width="1276" height="821" alt="Screenshot 2025-07-13 at 14 21 41" src="https://github.com/user-attachments/assets/5a7ea069-9cb6-4844-b986-8033f7853a71" />
 
 Demo app UI, Note that the bubble is floating, and can be move by the user.
+
 <img width="322" height="707" alt="Screenshot 2025-07-13 at 14 29 30" src="https://github.com/user-attachments/assets/e153daf5-a951-4510-9f6a-7e62b316183a" />
 <img width="327" height="705" alt="Screenshot 2025-07-13 at 14 29 36" src="https://github.com/user-attachments/assets/32887495-6596-4030-bb2f-6038cf6d9017" />
 
