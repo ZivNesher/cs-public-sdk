@@ -1,5 +1,9 @@
 # EasyCS Chat SDK
 
+
+https://github.com/user-attachments/assets/ee41d0e9-05fa-4024-ad22-3c0befdc1216
+
+
 **EasyCS Chat SDK** is a complete customer-support solution for Android applications, offering a floating chat bubble for users, a real-time backend, and a modern web dashboard for support associates.
 
 ---
@@ -10,6 +14,7 @@
 <img width="1276" height="821" alt="Screenshot 2025-07-13 at 14 21 41" src="https://github.com/user-attachments/assets/5a7ea069-9cb6-4844-b986-8033f7853a71" />
 
 ## Demo App UI  
+
 *The bubble floats and can be dragged by the user.*
 
 <img width="322" height="707" alt="Screenshot 2025-07-13 at 14 29 30" src="https://github.com/user-attachments/assets/e153daf5-a951-4510-9f6a-7e62b316183a" />
